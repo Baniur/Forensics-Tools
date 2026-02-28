@@ -25,6 +25,7 @@
   <li><a href="https://github.com/cristianzsh/amcache-evilhunter" title="Windows Forensics Tools - AmCache EvilHunter">AmCache EvilHunter</a></li>
   <li><a href="https://ericzimmerman.github.io/#!index.md" title="Windows Forensics Tools - Eric Zimmerman's Tools">Eric Zimmerman's Tools (EZ Tools)</a></li>
   <li><a href="https://www.nirsoft.net/" title="Windows Forensics Tools - Nirsoft Tools">Nirsoft Tools</a></li>
+  <li><a href="https://github.com/MarkBaggett/srum-dump" title="Windows Forensics Tools - Srum-Dump">Srum-Dump</a></li>
 </ul>
 
 ## Remote Desktop Cache Analyzers
