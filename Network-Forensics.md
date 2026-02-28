@@ -1,4 +1,4 @@
-# Network Forensics Tools
+# 🕸️ Network Forensics Tools
 
 <ul>
   <li><a href="https://www.brimdata.io/" title="Network Forensics Tools - Brim">Brim</a></li>
