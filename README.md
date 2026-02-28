@@ -2,7 +2,7 @@
 
 # 🕵️ Forensics Tools
 
-<p>My subjective collection of incident response / digital forensics tools that I have used on training platforms such as <a href="https://blueteamlabs.online/login">Blue Team Labs Online</a>, <a href="https://cyberdefenders.org/blue-team-labs/">CyberDefenders</a>, <a href="https://help.hackthebox.com/en/articles/8570249-how-to-play-sherlocks">Hack The Box Sherlocks</a>, Capture the Flag competitions, as well as in real cases and incidents.</p>
+<p>My subjective collection of incident response / digital forensics tools that I have used on training platforms such as <a href="https://blueteamlabs.online/login">Blue Team Labs Online</a>, <a href="https://cyberdefenders.org/blue-team-labs/">CyberDefenders</a>, <a href="https://help.hackthebox.com/en/articles/8570249-how-to-play-sherlocks">Hack The Box Sherlocks</a>, Capture the Flag competitions, as well as in real life cases and incidents.</p>
 
 <ul>
   <li><a href="https://github.com/Baniur/Forensics-Tools/blob/main/Linux-Forensics.md" title="Linux Forensics Tools">Linux</a></li>
@@ -32,6 +32,15 @@
   <li><a href="https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/" title="Acquisition Tools - DumpIt">DumpIt</a></li>
   <li><a href="https://www.exterro.com/digital-forensics-software/ftk-imager" title="Acquisition Tools - FTK Imager">FTK Imager</a></li>
   <li><a href="https://github.com/504ensicsLabs/LiME" title="Acquisition Tools - ">LiME</a> (Linux Memory Extractor)</li>
+</ul>
+
+## Disk Images Analyzer/Viewers
+
+<ul>
+  <li><a href="https://sleuthkit.org/autopsy/" title="Disk Images Analyzer/Viewers - Autopsy">Autopsy</a></li>
+  <li><a href="https://github.com/fox-it/dissect" title="Disk Images Analyzer/Viewers - Dissect">Dissect</a></li>
+  <li><a href="https://www.exterro.com/digital-forensics-software/ftk-imager" title="Disk Images Analyzer/Viewers - FTK Imager">FTK Imager</a></li>
+  <li><a href="https://github.com/sleuthkit/sleuthkit" title="Disk Images Analyzer/Viewers - The Sleuth Kit">The Sleuth Kit</a></li>
 </ul>
 
 ## Incident Response Management Tools
