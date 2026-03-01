@@ -13,6 +13,7 @@
   <li><a href="https://github.com/WithSecureLabs/chainsaw" title="Windows Forensics Tools - Chainsaw">Chainsaw</a></li>
   <li><a href="https://github.com/sans-blue-team/DeepBlueCLI" title="Windows Forensics Tools - DeepBlueCLI">DeepBlueCLI</a></li>
   <li><a href="https://github.com/Yamato-Security/hayabusa" title="Windows Forensics Tools - Hayabysa">Hayabusa</a></li>
+  <li><a href="https://github.com/Yamato-Security/takajo" title="Windows Forensics Tools - Takajo">Takajo</a> (fast forensics analyzer for Hayabusa)</li>
 </ul>
 
 ## MFT Analyzers
