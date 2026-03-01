@@ -10,9 +10,10 @@
 
 <ul>
 <li><a href="https://github.com/ydkhatri/mac_apt" title="MacOS Forensics Tools - MAC APT">macOS (and iOS) Artifact Parsing Tool (MAC APT)</a></li>
+<li><a href="https://github.com/dlcowen/FSEventsParser" title="MacOS Forensics Tools - MAC APT"">FSEventsParser</a></li>
 <li><a href="https://github.com/mac4n6/macMRU-Parser" title="MacOS Forensics Tools - macMRU-Parser">macMRU-Parser</a></li>
 <li><a href="https://github.com/ydkhatri/spotlight_parser" title="MacOS Forensics Tools - Spotlight Parser">Spotlight Parser</a></li>
-<li><a href="https://github.com/mandiant/macos-UnifiedLogs" title="MacOS Forensics Tools - UnifiedLogs">UnifiedLogs</a></li>
+<li><a href="https://github.com/mandiant/macos-nifiedLogs" title="MacOS Forensics Tools - UnifiedLogs">UnifiedLogs</a></li>
 </ul>
 
 ## Live Forensics
