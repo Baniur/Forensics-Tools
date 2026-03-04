@@ -52,11 +52,9 @@
 
 ###  For Teams
 
-[DFIR IRIS](https://github.com/dfir-iris/iris-web)
+- [DFIR IRIS](https://github.com/dfir-iris/iris-web)
 
 ##  Cyber Swiss army knife (data-related operations)
 
-<ul>
-  <li><a href="https://gchq.github.io/CyberChef/" title="Cyber Swiss army knife - CyberChef">CyberChef</a></li>
-  <li><a href="https://github.com/mattnotmax/cyberchef-recipes" title="CyberChef recipes">Useful CyberChef recipes</a></li>
-</ul>
+- [CyberChef](https://gchq.github.io/CyberChef/)
+  - [Useful CyberChef recipes](https://github.com/mattnotmax/cyberchef-recipes)
