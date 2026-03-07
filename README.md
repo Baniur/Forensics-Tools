@@ -16,6 +16,14 @@
 
 # 🛠️ Support Tools
 
+## Forensic Linux Distributions
+
+- [SIFT (SANS Investigative Forensic Toolkit) Workstation](https://www.sans.org/tools/sift-workstation)
+- [CSI Linux](https://csilinux.com/)
+- [Kali Linux](https://www.kali.org/)
+- [PALADIN (Perform Action for Lookup and Analyze Digital Incident Natively)](https://sumuri.com/software/paladin/)
+- [CAINE (Computer Aided INvestigative Environment)](https://www.caine-live.net/)
+
 ## Acquisition Tools
 
 ### Disk Imaging
