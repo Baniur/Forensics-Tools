@@ -12,8 +12,16 @@
 - [Hayabusa](https://github.com/Yamato-Security/hayabusa)
   - [Takajo](https://github.com/Yamato-Security/takajo) (fast forensics analyzer for Hayabusa)
 
-## MFT Analyzers
+## MFT ($MFT) Parsers/Analyzers
 - [Chainsaw](https://github.com/WithSecureLabs/)
+- [NTFS Log Tracker](https://sites.google.com/site/forensicnote/ntfs-log-tracker)
+
+## UsnJrnl ($J) Parsers/Analyzers
+- [NTFS Log Tracker](https://sites.google.com/site/forensicnote/ntfs-log-tracker)
+
+## $LogFile Parsers/Analyzers
+- [NTFS Log Tracker](https://sites.google.com/site/forensicnote/ntfs-log-tracker)
+- [LogFileParser](https://github.com/jschicht/LogFileParser)
 
 ## Artifact Parsers/Analyzers
 - [AmCache EvilHunter](https://github.com/cristianzsh/amcache-evilhunter)
