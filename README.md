@@ -12,7 +12,7 @@
   <li><a href="https://github.com/Baniur/Forensics-Tools/blob/main/Network-Forensics.md" title="Network Forensics Tools">Network</a></li>
   <li><a href="https://github.com/Baniur/Forensics-Tools/blob/main/WebBrowsers-Forensics.md" title="Web Browsers Forensics Tools">Web Browsers</a></li>
   <li><a href="https://github.com/Baniur/Forensics-Tools/blob/main/Windows-Forensics.md" title="Window Forensics Tools">Windows</a></li>
-  <li><a href="https://github.com/Baniur/Forensics-Tools/blob/main/Cloud-Forensics.md" title="Cloud Forensics Tools">Windows</a></li>
+  <li><a href="https://github.com/Baniur/Forensics-Tools/blob/main/Cloud-Forensics.md" title="Cloud Forensics Tools">Cloud</a></li>
 </ul>
 
 # 🛠️ Support Tools
