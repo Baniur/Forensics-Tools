@@ -9,6 +9,7 @@
 ## Artifact Parsers
 
 <ul>
+<li><a href="https://github.com/cocopollo/Biome_Timeline" title="Parse Apple Biome (SEGB)">BIOME Timeline</a></li>
 <li><a href="https://github.com/ydkhatri/mac_apt" title="MacOS Forensics Tools - MAC APT">macOS (and iOS) Artifact Parsing Tool (MAC APT)</a></li>
 <li><a href="https://github.com/dlcowen/FSEventsParser" title="MacOS Forensics Tools - MAC APT"">FSEventsParser</a></li>
 <li><a href="https://github.com/mac4n6/macMRU-Parser" title="MacOS Forensics Tools - macMRU-Parser">macMRU-Parser</a></li>
